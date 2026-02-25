@@ -1,1 +1,4 @@
-Bare litt tekst her.
+Readme
+
+Pass på at alle filene ender med .ipynb
+
